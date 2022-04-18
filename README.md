@@ -2,6 +2,8 @@
 
 
 Deployed url link: https://jalol91.github.io/hospital-managment-service/
+
+
 Description
 
 This app allows to accept the appointment online by the doctor to acknowledge the patient that their appointment has been approved. Patient should not be allowed to register if he/she tries to provide the already registered email ID. The password should be unique and the password field shouldn't be displayed in the admin panel. This App allows patients to create their account, book an appointment to see a doctor and also it lets patients to see their history and information. Once appointment has been creadted user can update time or date and app also let user to cancel the apoitnemnt .
